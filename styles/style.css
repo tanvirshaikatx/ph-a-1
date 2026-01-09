@@ -76,7 +76,7 @@ body {
 /* BANNER SECTION */
 
 .banner {
-    width: 1600px;
+    width: 100%;
     height: 674px;
     margin: 0 auto;
 
@@ -206,7 +206,7 @@ body {
 
 
 .notes {
-    width: 1600px;
+    width: 1000px;
     height: 448px;
     padding-top: 64px;
     text-align: center;
@@ -253,7 +253,7 @@ body {
 
 /* SECOND BRAIN */
 .second-brain {
-    width: 1600px;
+    width: 100%;
     height: 840px;
     display: flex;
     align-items: center;
@@ -314,7 +314,7 @@ body {
 
 /* READY */
 .ready {
-    width: 1600px;
+    width: 100%;
     height: 506px;
     display: flex;
     align-items: center;
@@ -360,7 +360,7 @@ body {
 .footer {
     background: #020617;
     color: white;
-    width: 1600px;
+    width: 100%;
     height: 348px;
     margin: 0 auto;
 
