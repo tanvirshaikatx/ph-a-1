@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.logo {
+    height: 60px;
+    width: 139px;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background: white;
+}
+
+
+nav {    
+    width: 100%;
+    max-width: 1200px;
+    border: 1px solid red;
+    margin: auto;
+    padding: 15px 40px;
+    
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
